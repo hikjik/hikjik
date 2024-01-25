@@ -35,7 +35,7 @@
 
 🔭 I’m currently working on AI, Computer Vision, Deep Learning projects;
 
-🌱 I’m currently learning MLOps, Competitive Programming, React JS, Backend Development with Python;
+🌱 I’m currently learning MLOps, Competitive Programming, React JS, Backend Development with Python and Go;
 
 👯 Open to collaborate;
 
@@ -54,8 +54,14 @@
       alt="Telegram"
       />
   </a>
-
+  <a href="https://leetcode.com/morev/">
+    <img
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"
+      alt="leetcode"
+    />
+  </a>
 <br>
+
 
 <h2 align="center">
   <img
@@ -155,6 +161,39 @@
   <img src="https://img.shields.io/badge/Jetson-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
 </p>
 
+<h2 align="center">
+  <b>📚 Learning</b>
+  </br>
+  </br>
+
+  | Educational Platform | Course   | Certificate | Year |
+  | :------------------: | :------: | :---------: | :--: |
+  | [Yandex Practicum](https://practicum.yandex.ru/) | [Web Developer](https://practicum.yandex.ru/web/) | [.pdf](/certs/Yandex%20Practicum%20Web%20Developer.pdf) | 2023 |
+  | [Yandex Practicum](https://practicum.yandex.ru/) | [Advanced Golang Developer](https://practicum.yandex.ru/go-advanced/) | [.pdf](/certs/Yandex%20Practicum%20Advanced%20Golang%20Developer.pdf) | 2022 |
+  | [Yandex Practicum](https://practicum.yandex.ru/) | [Python Developer](https://practicum.yandex.ru/backend-developer/) | [.pdf](/certs/Yandex%20Practicum%20Python%20Developer.pdf) | 2022 |
+  | [Yandex School of Data Analysis](https://dataschool.yandex.com/) | [Big Data Specialization](https://dataschool.yandex.com/dataschool/course/big-data-infrastructure) | todo | 2017-2019 |
+  | [Coursera](https://www.coursera.org/) | [Modern C++ Specialization](https://www.coursera.org/learn/c-plus-plus-black/home/welcome) | [.pdf](/certs/Coursera%20Modern%20C++.pdf) | 2019 |
+  | [Coursera](https://www.coursera.org/) | [Android Developer](https://www.coursera.org/learn/quick-start-to-android) | [.pdf](/certs/Coursera%20Android.pdf) | 2018 |
+  | [Coursera](https://www.coursera.org/) | [Data Structures and Algorithms Specialization](https://www.coursera.org/specializations/data-structures-algorithms) |  [.pdf](/certs/Coursera%20Data%20Structures%20and%20Algorithms%20Specialization.pdf) | 2017 |
+
+</h2>
+
+<h2 align="center">
+  <b>💻 Some Projects</b>
+  </br>
+  </br>
+
+  | Repository | Languages | Description |
+  | :--------: | :------: | :------: |
+  | [leetcode](https://github.com/hikjik/leetcode) | C++ / SQL | [LeetCode](https://leetcode.com/) Accepted Solutions |
+  | [cses](https://github.com/hikjik/cses) | C++ | [CSES](https://cses.fi/problemset/list/) Accepted Solutions |
+  | [movies-explorer-frontend](https://github.com/hikjik/movies-explorer-frontend) | JS/HTML/CSS | Web-Developer Course Diploma |
+  | [movies-explorer-api](https://github.com/hikjik/movies-explorer-api) | JS | Web-Developer Course Diploma |
+  | [gophkeeper](https://github.com/hikjik/gophkeeper) | Golang | Advanced Go Developer Diploma |
+  | [gophermart](https://github.com/hikjik/gophermart) | Golang | Go Developer Diploma |
+  | [foodgram](https://github.com/hikjik/foodgram-project-react) | Python/JS/CSS | Python Developer Diploma |
+
+</h2>
 
 <h2 align="center">
   <img
@@ -166,7 +205,7 @@
   <b>Github Statistics</b>
 </h2>
 
-<details>
+<details open>
   <summary>Contribution Graph</summary>
   <img
     align="center"
@@ -175,7 +214,7 @@
   />
 </details>
 
-<details>
+<details open>
   <summary>GitHub Streak</summary>
   <div align="center">
     <img
@@ -185,7 +224,7 @@
   </div>
 </details>
 
-<details>
+<details open>
   <summary>Most Used Languages and GitHub Stats</summary>
   <div align="center">
     <img
@@ -239,7 +278,7 @@
    <img src="https://metrics.lecoq.io/hikjik?template=classic&base.header=0&base.metadata=0&isocalendar=1&languages=1&people=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&config.timezone=Europe%2FMoscow"/>
 </details>
 
-<h2>Connect with me:</h2>
+<h2><img src="https://github.com/SP-XD/SP-XD/blob/main/images/letterbox.gif?raw=true" width="25" /> Connect with me:</h2>
 <div>
   <a href="mailto:alexandr.morev.89@gmail.com">
     <img
@@ -251,6 +290,12 @@
     <img
       src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"
       alt="telegram"
+    />
+  </a>
+  <a href="https://leetcode.com/morev/">
+    <img
+      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
+      alt="leetcode"
     />
   </a>
   <hr>
@@ -265,10 +310,9 @@
 <!-- [![AtCoder](https://badges.joonhyung.xyz/atcoder/hikjik.svg)](https://atcoder.jp/users/hikjik) -->
 
 <!-- <img width="100%" src="https://www.codewars.com/users/hikjik/badges/large"> -->
-<!-- <img width="50%" src="https://leetcard.jacoblin.cool/dead_inspiron?theme=dark,unicorn&extension=activity"> -->
-<!-- <img width="50%" src="https://leetcard.jacoblin.cool/dead_inspiron?theme=dark,unicorn&ext=heatmap"> -->
-<!-- <img width="50%" src="https://leetcard.jacoblin.cool/dead_inspiron?theme=dark,unicorn&ext=contest"> -->
+<!-- <img width="50%" src="https://leetcard.jacoblin.cool/alexandr_morev?theme=dark,unicorn&ext=heatmap"> -->
+<!-- <img width="50%" src="https://leetcard.jacoblin.cool/morev?theme=dark,unicorn&ext=contest"> -->
 
 <!-- <img src="https://komarev.com/ghpvc/?username=hikjik" alt="Profile views"/> -->
-<!-- <img src="https://img.shields.io/github/followers/hikjik?label=Followers&style=social" alt="GitHub followers"> -->
-<!-- <img alt="Stars" src="https://img.shields.io/github/stars/hikjik?style=social"> -->
+
+
